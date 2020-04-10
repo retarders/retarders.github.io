@@ -3,7 +3,7 @@ const texts = [
 	'we do cool stuff on the internet',
 	'we are lawyers',
 	'we are decentralized',
-	'we don\t change',
+	'we don\'t change',
 	'we like to <a class="twitter" href="http://lunar.retarders.wtf/">rickroll</a> people',
 	'11/28/2018',
 ];
