@@ -5,7 +5,7 @@ const texts = [
 	'we are decentralized',
 	'we don\'t change',
 	'we like to <a class="twitter" href="http://lunar.retarders.wtf/">rickroll</a> people',
-	'11/28/2018',
+	'28/11/2018',
 ];
 
 let typer = new TypeIt('.subtitle', {
