@@ -4,7 +4,7 @@ const texts = [
 	'we are lawyers',
 	'we are decentralized',
 	'we don\'t change',
-	'we like to <a class="twitter" href="http://lunar.retarders.wtf/">rickroll</a> people',
+	'we like to <a class="twitter" href="http://lunar.retarders.top/">rickroll</a> people',
 	'28/11/2018',
 ];
 
